@@ -1,0 +1,52 @@
+body{
+    background-color: rgb(161, 200, 244);
+
+
+}
+
+#redes{
+    text-align: center;
+    margin: auto;
+}
+
+li{
+
+    list-style-type: none;
+    margin-left: -3.5%;
+}
+
+.imgCcs{
+    
+    width: 100%;
+
+}
+
+#sobre{
+    text-align: center;
+    margin: auto;   
+}
+
+#educacion{
+    text-align: center;
+    margin: auto;
+}
+
+#habilidades{
+    text-align: center;
+    margin: auto;
+}
+
+#proyectos{
+    text-align: center;
+    margin: auto;
+}
+
+#experiencia{
+    text-align: center;
+    margin: auto;
+}
+
+.imgPerfil{
+    width: 20%;
+    position: fixed;
+}
